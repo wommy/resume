@@ -1,11 +1,11 @@
 
-<img src='https://i.imgur.com/6GLw25um.jpg' style='float:left;margin-right:1rem;'>
+<img src='https://i.imgur.com/6GLw25um.jpg' align='left'>
 <a href='//github.com/wommy/resume/raw/master/resume-2017_03_23.pdf' download>download pdf</a>
 
 # TOMMY WILLIAMS
 
 `email:` <a href='mailto:tom@technomad.media?subject="from resume"' rel='nofollow'>tom@technomad.media</a>  
-`or text:` <a href="sms://+13128189011?body=This%20is%20why%20you%20should%20hire%20me." rel='nofollow'>312 818 9011</a>  
+`phone:` <a href="tel:+13128189011" rel='nofollow'>312 818 9011</a>  
 `portfolio:` <a href='//wommy.io'>wommy.io</a> & <a href='//github.com/wommy'>github.com/wommy</a>
 
 `focus:` media distribution, digital publishing => ecommerce  
