@@ -8,6 +8,7 @@ but one thing has stayed the same
 
 it is my resume
 
+
 primarily it is a html document
 
 a template with style and script in the head
@@ -15,6 +16,7 @@ a template with style and script in the head
 that generate a body
 
 based on data passed to it
+
 
 it has three sections
 
