@@ -7,11 +7,15 @@
 ## sections
 
 1. data
+
 2. program
+
   - html template
   - styles
   - scripts
+
 3. output
+
   - pdf
   - markdown
   - html
