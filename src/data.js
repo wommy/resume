@@ -1,35 +1,35 @@
 contact
-  picture
-  tommy williams
-  email - 9@w0m.io
-  phone - 312 818 9011
-  portfolio - wommy.io, github.com/wommy
-  focus - digital publishing, media distribution =&gt; eCommerce
-  location - chicago =&gt; royal oak mi =&gt; berlin
-  hobbies - cycling martial-arts dancing techno
-  built with - chromeos cloud9.io github node pugjs scss
+  picture:
+  name: tommy williams
+  email: tom@technomad.media
+  portfolio: github.com/wommy, wommy.io, technomad.media
+  focus: digital publishing, media distribution, ecommerce
+  location: chicago,il royal oak,mi newyork,ny
+  hobbies: cycling martial arts dancing techno
+  built with: linux github atom javascript html css
 
 education
-  depaul university - class of 2015
+  class of 2008: university of detroit jesuit high school
+  2008 - 2010: columbia college chicago
+  class of 2015: depaul university
     bachelors of art - psychology
     minor - interactive and social media
-  columbia college chicago
 
 experience
-  since 2010 - technomad - freelance
-  since 2015 - solution people
-  2015 summer/fall  - original graphics printing
+  2010 and since: technomad - freelance
+  2015 - 2017: solution people
+  2015 summer, fall: original graphics printing
 
 skills
   node, javascript, es6
-  git, github, git flow
+  git, github, git-flow
   pugJS, html5, json
-  scss, css3, sass, less
+  css3, sass, less, stylus
   linux, cli, chromeos
   static site generators
   build tools, npm, webpack
   component-based architecture
   cdn, dns, ssl, https/2
   object-oriented, functional
-  ruby python react vue riot
+  ruby python react vue
   ui ux, gimp, sketch
