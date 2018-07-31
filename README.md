@@ -1,13 +1,13 @@
 # resume
 
-my resume has gone thru many different iterations
+## one of many iterations
 
 - a html template
   - body generated from data
   - scripts and styles
 
-sections
+## sections
 
-  1 the data
-  2 the scripts
-  3 output
+- 1 the data
+- 2 the scripts
+- 3 output
