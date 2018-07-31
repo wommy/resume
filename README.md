@@ -6,10 +6,12 @@
 
 ## sections
 
-1. the data
-2. the scripts
+1. data
+2. program
+  - html template
+  - styles
+  - scripts
 3. output
-
-- html template
-  - head: styles, scripts
-  - body: generated from data
+  - pdf
+  - markdown
+  - html
