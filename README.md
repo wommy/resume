@@ -1,31 +1,13 @@
 # resume
 
-this document is pretty strange
+my resume has gone thru many different iterations
 
-it has gone thru many different iterations
+- a html template
+  - body generated from data
+  - scripts and styles
 
-but one thing has stayed the same
+sections
 
-it is my resume
-
-
-primarily it is a html document
-
-a template with style and script in the head
-
-that generate a body
-
-based on data passed to it
-
-
-it has three sections
-
-1 the data
-
-gets processed by
-
-2 the scripts
-
-which render
-
-3 output
+  1 the data
+  2 the scripts
+  3 output
