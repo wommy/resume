@@ -52,13 +52,3 @@
 `balsamiq` `axure` `illustrator` => *gimp & sketch*
 
 `test creation` `data collection` `statistical analysis`
-
-['html','css','js']
-['windows','mac','linux']
-'rails':['jquery','ruby','rubygems','mysql','erb']
-'php','lamp','wordpress'
-'mixture':['liquid','yaml','md']
-'jekyll','gulp','sass','node','npm','jade/pug'
-'webpack','spike','postcss','babel','reshape','yarn'
-'es6','vue','react','elm'
-'gatsby','react','graphql','api'
