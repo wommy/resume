@@ -1,13 +1,15 @@
-# resume
+# resume, one of many iterations
 
-## one of many iterations
+## current version
 
-- a html template
-  - body generated from data
-  - scripts and styles
+### 2018/07/31
 
 ## sections
 
-- 1 the data
-- 2 the scripts
-- 3 output
+1. the data
+2. the scripts
+3. output
+
+- html template
+  - head: styles, scripts
+  - body: generated from data
