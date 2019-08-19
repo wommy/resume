@@ -1,9 +1,0 @@
-{
-  "name": "resume",
-  "version": "1.0.0",
-  "description": "a little app to create my resume from data",
-  "main": "index.js",
-  "repository": "git@github.com:wommy/resume.git",
-  "author": "wommy <tom@technomad.media>",
-  "license": "MIT"
-}
