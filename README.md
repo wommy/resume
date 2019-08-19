@@ -9,7 +9,7 @@
 	- hydro capital
 	- mc chris
 	- solution people
-  - original graphics printing
+	- original graphics printing
 	- technomad
 
 3. education
