@@ -1,4 +1,4 @@
-# resume ver 2019-07-08
+# resume ver 2019-07-15
 
 ## sections
 
