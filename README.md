@@ -1,21 +1,16 @@
-# resume, one of many iterations
-
-## current version
-
-### 2018/07/31
+# resume ver 2019-07-08
 
 ## sections
 
-1. data
+1. summary
 
-2. program
+2. experience
 
-  - html template
-  - styles
-  - scripts
+	- hydro capital
+	- mc chris
+	- solution people
+  - original graphics printing
+	- technomad
 
-3. output
+3. education
 
-  - pdf
-  - markdown
-  - html
