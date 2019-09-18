@@ -1,16 +1,14 @@
-# resume ver 2019-07-15
+# Resume readme
 
-## sections
+`2019-09-18`
 
-1. summary
+## todos
 
-2. experience
+### done
 
-	- hydro capital
-	- mc chris
-	- solution people
-	- original graphics printing
-	- technomad
+-	browsersync
 
-3. education
+### todo
 
+1.	pull data out
+1.	redo readme
