@@ -11,6 +11,6 @@
 ### todo
 
 1.	pull data out
+	-	do something with partials
 1.	redo readme
 1.	releases: branch and tag
-1.	do something with partials
