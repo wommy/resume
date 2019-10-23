@@ -1,0 +1,12 @@
+{
+  "name": "wommy-resume",
+  "version": "0.1.0",
+  "description": "wommy's resume built with 11ty_pug",
+  "main": "index.js",
+  "repository": "git@github.com:wommy/resume.git",
+  "author": "wommy <tom@technomad.media>",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.9.0"
+  }
+}
