@@ -1,16 +1,16 @@
-# Resume readme
-
-`2019-09-18`
+# Wommy's Resume
+- [ ] write stuff in here
 
 ## todos
-
 ### done
-
--	browsersync
+- [x] browsersync
+- [x] netlify
+- [x] 11ty
+- [x] mkdir, populate: _layout, _data
+- [x] bumpout views
 
 ### todo
-
-1.	pull data out
-	-	do something with partials
-1.	redo readme
-1.	releases: branch and tag
+- [ ] standardize _layout, _data
+- [ ] pandoc pdf
+- [ ] readme
+- [ ] publish
