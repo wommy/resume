@@ -14,5 +14,8 @@
 - [ ] pandoc pdf
 - [ ] readme
 - [ ] publish to master
-- [ ] add grandpa to experience-work
+- [ ] add grandpa to work
 - [ ] edit contact.summary
+
+- [ ] add some vim plugins: vim-json, vim-jdaddy
+- [ ] json schema

@@ -1,8 +1,7 @@
 extends /_template.pug
 
 block content
-	h1 wommy resume
-	h2 contact
+	h1= contact.name
 	h2 experience
 		h3 work
 		for arr,key in work
@@ -16,9 +15,14 @@ block content
 				h4= key + ': '
 				for each in arr
 					p= each
-		h3 meetups
-//-		for arr,key in work
+		h3 events
+		for arr,key in events.info
 			div
 				h4= key + ': '
 				for each in arr
+					p= each
+		for arr in events.list
+			div
+				for each,key in arr
+					h4= key + ': '
 					p= each
