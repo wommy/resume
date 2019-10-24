@@ -13,4 +13,6 @@
 - [ ] standardize _layout, _data
 - [ ] pandoc pdf
 - [ ] readme
-- [ ] publish
+- [ ] publish to master
+- [ ] add grandpa to experience-work
+- [ ] edit contact.summary

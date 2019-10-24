@@ -1,4 +1,24 @@
 extends /_template.pug
 
 block content
-	h1 wommy working
+	h1 wommy resume
+	h2 contact
+	h2 experience
+		h3 work
+		for arr,key in work
+			div
+				h4= key + ': '
+				for each in arr
+					p= each
+		h3 skills
+		for arr,key in skills
+			div
+				h4= key + ': '
+				for each in arr
+					p= each
+		h3 meetups
+//-		for arr,key in work
+			div
+				h4= key + ': '
+				for each in arr
+					p= each
