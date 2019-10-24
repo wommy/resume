@@ -9,7 +9,7 @@
 	"JavaScript/jQuery/GSAP": [ ["es6", "lodash"] ],
 	"Bootstrap or similar framework": [ ["tachyons", "tailwind", "GPS"] ],
 	"XML/JSON": [ ["csv", "yaml", "toml"] ],
-	"extra": [
+	"bonus": [
 		["npm", "gulp", "webpack"],
 		["mobile-first", "acessibility"],
 		["git", "bash", "cli", "vim", "ssh", "unix"],

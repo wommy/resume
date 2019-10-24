@@ -1,28 +1,49 @@
 extends /_template.pug
 
 block content
-	h1= contact.name
-	h2 experience
-		h3 work
+	div
+		for arr,key in base
+			div
+				strong= key + ': '
+				span= arr
+	div
+		h2 education
+		for obj in education
+			p
+				for each, key in obj
+					div
+						strong= key + ': '
+						span= each
+	div
+		h2 work
 		for arr,key in work
-			div
-				h4= key + ': '
-				for each in arr
-					p= each
-		h3 skills
+			p
+				div
+					strong= key + ': '
+				div
+					for each in arr
+						div
+							span= each
+	div
+		h2 skills
 		for arr,key in skills
-			div
-				h4= key + ': '
+			p
+				div
+					strong= key + ': '
 				for each in arr
-					p= each
-		h3 events
+					div
+						span= each
+	div
+		h2 events
 		for arr,key in events.info
 			div
-				h4= key + ': '
+				strong= key + ': '
 				for each in arr
-					p= each
-		for arr in events.list
-			div
-				for each,key in arr
-					h4= key + ': '
-					p= each
+					span= each
+		for obj in events.list
+			for arr,key in obj
+				p
+					div
+						strong= key + ': '
+					for each in arr
+						div= each
