@@ -10,7 +10,7 @@ const data = {
 </script>
 <template>
 	<header class="flex justify-between items-end">
-		<h1 class="">{{ data.name }}</h1>
+		<h1>{{ data.name }}</h1>
 		<div class="flex flex-col">
 			<span v-for="ea in data.contact"
 				class="text-right"
@@ -18,7 +18,7 @@ const data = {
 		</div>
 	</header>
 </template>
-<style>
+<style scoped>
 h1 {
 	font-size: 4rem;
 	line-height: 1;
