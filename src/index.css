@@ -1,0 +1,16 @@
+@tailwind base;
+@layer base {
+	body {
+		@apply 
+			font-serif
+			text-sm
+		;
+	}
+}
+@tailwind utilities;
+@layer utilities {
+	.flow > * + * {
+		@apply mt-[1em];
+	}
+}
+@tailwind components;
