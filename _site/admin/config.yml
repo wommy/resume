@@ -1,6 +1,9 @@
 backend:
   name: git-gateway
-media_folder: 'static/'
+  # name: github
+  # repo: wommy/resume
+  branch: tms-content
+media_folder: '_static/'
 local_backend: true
 # media_library:
 #   name: cloudinary
